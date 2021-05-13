@@ -3,3 +3,6 @@ META-INF
 out/artifacts_old
 out/production
 out/artifacts/Pyatnashki_raw.jar
+/out/artifacts/Pyatnashki_obfuscated.jar-yguard.xml
+/out/artifacts/Pyatnashki_obfuscated.jar
+/out/artifacts/Pyatnashki_obfuscated.exe
